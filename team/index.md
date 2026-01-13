@@ -26,16 +26,16 @@ PhD Students
 {% include section.html %}
 
 Affiliated Members
-Istvan Kiss, Northeastern University London
+**Istvan Kiss, Northeastern University London
 
 {% include section.html %}
 
 External Members
-Thomas Eisermann, University of Lisbon, Lisbon, Portugal
-Ricardo de Carvalho, University of Lisbon, Lisbon, Portugal
-Miguel Gonzalez-Casado, Universidad Carlos III, Madrid, Spain
-Elena Candellone, Utrecht University, Utrechth, Netherlands
-Fernando Diaz-Diaz, Universidad Carlos III, Madrid, Spain
+**Thomas Eisermann, University of Lisbon, Lisbon, Portugal
+**Ricardo de Carvalho, University of Lisbon, Lisbon, Portugal
+**Miguel Gonzalez-Casado, Universidad Carlos III, Madrid, Spain
+**Elena Candellone, Utrecht University, Utrechth, Netherlands
+**Fernando Diaz-Diaz, Universidad Carlos III, Madrid, Spain
 {% include section.html %}
 
 Alumni
