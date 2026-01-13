@@ -34,7 +34,7 @@ External Members
 **Thomas Eisermann, University of Lisbon, Lisbon, Portugal
 **Ricardo de Carvalho, University of Lisbon, Lisbon, Portugal
 **Miguel Gonzalez-Casado, Universidad Carlos III, Madrid, Spain
-**Elena Candellone, Utrecht University, Utrechth, Netherlands
+**Elena Candellone, Utrecht University, Utrecht, Netherlands
 **Fernando Diaz-Diaz, Universidad Carlos III, Madrid, Spain
 {% include section.html %}
 
