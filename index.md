@@ -1,7 +1,7 @@
 ---
 ---
 
-# branlabresearch's Website
+# BRAN Lab
 
 Behavioral Research and Adaptive Networks
 
