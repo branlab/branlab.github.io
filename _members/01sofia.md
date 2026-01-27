@@ -4,7 +4,7 @@ image: images/profileandreiasofiateixeira.jpg
 role: principal-investigator
 affiliation: Network Science Institute, Northeastern University London
 links:
-  website: <a href="url">andreiasofiateixeira.com</a>
+  website: <a href="andreiasofiateixeira.com">andreiasofiateixeira.com</a>
   orcid: 0000-0002-2758-1891
 ---
 
