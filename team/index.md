@@ -20,6 +20,11 @@ Postdocs
 
 {% include section.html %}
 
+Postdocs
+{% include list.html data="members" component="portrait" filter="role"=='postdoc'" %}
+
+{% include section.html %}
+
 PhD Students
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
