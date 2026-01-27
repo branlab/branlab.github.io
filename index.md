@@ -13,7 +13,7 @@ Bridging Minds, Behavior, and Society through Network Science
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As an interdisciplinary research group, we have published in diverse venues. Check out our publications!
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have a variety of distinct and interconnected ongoing projects related to AI, neuroscience, health, social dynamics, and complex systems.
 
 {%
   include button.html
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team has wide-ranging expertise and interests.
 
 {%
   include button.html
