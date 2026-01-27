@@ -16,12 +16,7 @@ Lead
 {% include section.html %}
 
 Postdocs
-{% include list.html data="members" component="portrait" filter="role"=='postdoc'" %}
-
-{% include section.html %}
-
-Postdocs
-{% include list.html data="members" component="portrait" filter="role"=='postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 {% include section.html %}
 
