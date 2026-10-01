@@ -14,7 +14,7 @@ Bridging Minds, Behavior, and Society through Network Science
 
 ## Highlighted
 
-{% include citation.html lookup="Human\u2013AI interactions reshape the self and our social networks" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s42256-026-01248-2" style="rich" %}
 
 {% include section.html %}
 
