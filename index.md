@@ -76,7 +76,7 @@ Our team has wide-ranging expertise and interests.
 
 {%
   include feature.html
-  image="images/BRANLabLogo.png"
+  image="images/haily_sofia_asia_joao.jpeg"
   link="team"
   title="Our Team"
   text=text
