@@ -534,6 +534,155 @@
   orcid: 0000-0002-2758-1891
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.31234/osf.io/eabr5_v1
+  title: 'From the Social to the Individual: Human Interdependence Calls for Explanatory
+    Reversal in Mind and Brain'
+  authors:
+  - Haily Merritt
+  - Dimitris Bolis
+  publisher: Center for Open Science
+  date: '2026-04-30'
+  link: https://doi.org/hck7ww
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.08.29.609259
+  title: 'The dual interpretation of edge time series: Time-varying connectivity versus
+    statistical interaction'
+  authors:
+  - Haily Merritt
+  - Amanda Mejia
+  - Richard Betzel
+  publisher: openRxiv
+  date: '2024-08-30'
+  link: https://doi.org/hck7wx
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/scan/nsag005
+  title: "Social \u2018envirotyping\u2019 the ABCD study contextualizes dissociable\
+    \ brain organization and diverging outcomes"
+  authors:
+  - Haily Merritt
+  - Mary Kate Koch
+  - Youngheun Jo
+  - Evgeny Chumin
+  - Richard F Betzel
+  publisher: Social Cognitive and Affective Neuroscience
+  date: '2026-01-01'
+  link: https://doi.org/hck7wz
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/xvgez_v1
+  title: 'Connection &amp;amp; Context: The Variable Neural Architecture of Social
+    Relationships'
+  authors:
+  - Haily Merritt
+  - Divyangana Rakesh
+  - Richard Betzel
+  publisher: Center for Open Science
+  date: '2025-11-21'
+  link: https://doi.org/hck7w2
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/JORA.70036
+  title: "Are you there, God? It's me, gender bias in 100\u2009years of coming\u2010\
+    of\u2010age novels"
+  authors:
+  - Mary Kate Koch
+  - Haily Merritt
+  - "Misha N. Inniss\u2010Thompson"
+  - Kathleen C. McCormick
+  - Jane Mendle
+  publisher: Journal of Research on Adolescence
+  date: '2025-06-01'
+  link: https://doi.org/hck7w3
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/IMAG_A_00133
+  title: Stability and variation of brain-behavior correlation patterns across measures
+    of social support
+  authors:
+  - Haily Merritt
+  - Joshua Faskowitz
+  - Marlen Z. Gonzalez
+  - Richard F. Betzel
+  publisher: Imaging Neuroscience
+  date: '2024-04-01'
+  link: https://doi.org/hck7w4
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/ARTL_A_00417
+  title: The Dynamics of Social Interaction Among Evolved Model Agents
+  authors:
+  - Haily Merritt
+  - Gabriel J. Severino
+  - Eduardo J. Izquierdo
+  publisher: Artificial Life
+  date: '2024-01-01'
+  link: https://doi.org/hck7w5
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5334/IJC.1275
+  title: Tipping Points of Space Debris in Low Earth Orbit
+  authors:
+  - Keiko Nomura
+  - Simon Rella
+  - Haily Merritt
+  - Mathieu Baltussen
+  - Darcy Bird
+  - Annika Tjuka
+  - Dan Falk
+  publisher: International Journal of the Commons
+  date: '2024-01-11'
+  link: https://doi.org/gt7bxb
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUROIMAGE.2022.118971
+  title: Cortico-subcortical interactions in overlapping communities of edge functional
+    connectivity
+  authors:
+  - Evgeny J. Chumin
+  - Joshua Faskowitz
+  - Farnaz Zamani Esfahlani
+  - Youngheun Jo
+  - Haily Merritt
+  - Jacob Tanner
+  - Sarah A. Cutts
+  - Maria Pope
+  - Richard Betzel
+  - Olaf Sporns
+  publisher: NeuroImage
+  date: '2022-04-01'
+  link: https://doi.org/hck7w6
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUROIMAGE.2021.118607
+  title: Modularity maximization as a flexible and generic framework for brain network
+    exploratory analysis
+  authors:
+  - Farnaz Zamani Esfahlani
+  - Youngheun Jo
+  - Maria Grazia Puxeddu
+  - Haily Merritt
+  - Jacob C. Tanner
+  - Sarah Greenwell
+  - Riya Patel
+  - Joshua Faskowitz
+  - Richard F. Betzel
+  publisher: NeuroImage
+  date: '2021-12-01'
+  link: https://doi.org/hck7w7
+  orcid: 0000-0002-7422-3421
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
