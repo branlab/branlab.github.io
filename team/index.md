@@ -10,22 +10,22 @@ nav:
 {% include icon.html icon="fa-solid fa-users" %}Team
 {% include section.html %}
 
-**Lead
+##Lead
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html %}
 
-**Postdocs
+##Postdocs
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 {% include section.html %}
 
-**PhD Students
+##PhD Students
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 {% include section.html %}
 
-**Affiliated Members
+##Affiliated Members
 
 Istvan Kiss, Northeastern University London
 
@@ -35,7 +35,7 @@ Martin Smit, Northeastern University London
 
 {% include section.html %}
 
-**External Members
+##External Members
 
 Thomas Eisermann, University of Lisbon, Lisbon, Portugal
 
@@ -48,5 +48,5 @@ Elena Candellone, Utrecht University, Utrecht, Netherlands
 Fernando Diaz-Diaz, Universidad Carlos III, Madrid, Spain
 {% include section.html %}
 
-Alumni
+##Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
