@@ -12,18 +12,6 @@
   orcid: 0009-0006-0203-2155
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.31234/osf.io/s6gpk_v3
-  title: Tool or Companion? Reframing Conversational AI to Prevent Psychological Harm
-  authors:
-  - Asia Maurich Novelli
-  - Sukhi Shergill
-  - Andreia Sofia Teixeira
-  publisher: Center for Open Science
-  date: '2026-08-17'
-  link: https://doi.org/hck7wt
-  orcid: 0009-0006-0203-2155
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s42256-026-01248-2
   title: "Human\u2013AI interactions reshape the self and our social networks"
   authors:
