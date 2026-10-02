@@ -36,12 +36,12 @@ As an interdisciplinary research group, we have published in diverse venues. Che
 
 {% capture text %}
 
-We have a variety of distinct and interconnected ongoing projects related to AI, neuroscience, health, social dynamics, and complex systems.
+Recent papers, new members and other lab announcements.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="news"
+  text="Read the news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -52,8 +52,8 @@ We have a variety of distinct and interconnected ongoing projects related to AI,
 {%
   include feature.html
   image="images/BRANLabLogo.png"
-  link="projects"
-  title="Our Projects"
+  link="news"
+  title="News"
   flip=true
   style="bare"
   text=text
