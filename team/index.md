@@ -7,46 +7,44 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include icon.html icon="fa-solid fa-users" %}Team
 {% include section.html %}
 
-Lead
+## Principal Investigator
+
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html %}
 
-Postdocs
+## Faculty
+
+{% include list.html data="members" component="portrait" filter="role == 'faculty'" %}
+
+{% include section.html %}
+
+## Postdocs
+
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 {% include section.html %}
 
-PhD Students
+## PhD Students
+
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 {% include section.html %}
 
-Affiliated Members
+## Visiting Researchers
 
-Istvan Kiss, Northeastern University London
-
-Marilyn Gatica, Northeastern University London
-
-Martin Smit, Northeastern University London
+{% include list.html data="members" component="portrait" filter="role == 'visitor'" %}
 
 {% include section.html %}
 
-External Members
+## Affiliated Members
 
-Thomas Eisermann, University of Lisbon, Lisbon, Portugal
+- Istvan Kiss, Northeastern University London
 
-Ricardo de Carvalho, University of Lisbon, Lisbon, Portugal
+## External Collaborators
 
-Miguel Gonzalez-Casado, Universidad Carlos III, Madrid, Spain
-
-Elena Candellone, Utrecht University, Utrecht, Netherlands
-
-Fernando Diaz-Diaz, Universidad Carlos III, Madrid, Spain
-{% include section.html %}
-
-Alumni
-{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+- Miguel Gonzalez-Casado, Universidad Carlos III de Madrid, Spain
+- Elena Candellone, Utrecht University, Netherlands
+- Fernando Diaz-Diaz, Universidad Carlos III de Madrid, Spain
