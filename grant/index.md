@@ -1,21 +1,41 @@
 ---
-title: GRANT
+title: Grants
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 2
+  tooltip: Funding that supports our work
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Grant
+# {% include icon.html icon="fa-solid fa-hand-holding-dollar" %}Grants
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We're grateful to the funders who support our research.
 
 {% include section.html %}
 
-{% include search-box.html %}
+## Current
 
-{% include tags.html tags=site.tags %}
+**PP-Impact: Improving PrEP policies for MSM in Portugal and France through causal inference and data-driven modelling**  
+ANRS MIE, France (ANRS 00839-R-PR) · 2026–2028  
+Co-PI: Andreia Sofia Teixeira (lead, Northeastern University London team), with Dr Eugenio Valdano (INSERM, Paris).  
+Uses network reconstruction, causal inference and modelling to design more effective and cost-efficient HIV PrEP policies.
 
-{% include search-info.html %}
+{% include section.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+## Starting January 2027
+
+**Rethinking Epidemic Models: Integrating Human Behaviour and Psychology**  
+The Leverhulme Trust, Research Project Grant (RPG-2026-229) · 2027–2029  
+PI: Prof. István Z. Kiss (Northeastern University London). Co-Investigators: Andreia Sofia Teixeira, Prof. John Drury (University of Sussex), Dr Marijn Stok (Utrecht University).  
+Develops epidemic models that put human behaviour and psychology at the centre of how outbreaks unfold.
+
+{% include section.html %}
+
+## Completed
+
+**Dynamics and outbreak control priorities in different sorts of care homes**  
+UK Health Security Agency (UKHSA) · 2025–2026  
+PI: Andreia Sofia Teixeira
+
+**FIND-PrEP**  
+Fundação para a Ciência e a Tecnologia, Programa Pessoa (2022.15068.CBM) · 2023–2024  
+PI: Andreia Sofia Teixeira  
+Optimal distribution of HIV PrEP among sex workers.
