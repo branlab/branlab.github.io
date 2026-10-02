@@ -1,6 +1,6 @@
 ---
 name: Martin Smit
-image: images/fallback.svg
+image: images/martin.jpg
 role: visitor
 affiliation: University of Amsterdam
 links:
