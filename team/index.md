@@ -33,7 +33,7 @@ nav:
 
 {% include section.html %}
 
-## Visiting Researchers
+## Researchers
 
 {% include list.html data="members" component="portrait" filter="role == 'visitor'" %}
 
