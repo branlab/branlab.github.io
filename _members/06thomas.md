@@ -1,6 +1,6 @@
 ---
 name: Thomas Eisermann
-image: images/fallback.svg
+image: images/thomas.jpg
 role: phd
 affiliation: Faculty of Sciences, University of Lisbon
 ---
